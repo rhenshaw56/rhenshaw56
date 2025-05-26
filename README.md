@@ -33,6 +33,22 @@ Currently based in **Kitchener, Ontario**. I love football (the global kind), tr
 `Terraform` · `Pulumi` · `Docker` · `CI/CD` (GitHub Actions, GitLab, CircleCI) · `Ansible` · `Puppet`
 
 
+## 🌍 Open Source Contributions
+
+I'm proud to have contributed to a number of high-impact open-source projects across media, e-commerce, and healthcare:
+
+- 📰 **BBC Simorgh** – Contributed to the server-rendered React SPA powering BBC News in over 40 languages
+  [View my PRs →](https://github.com/bbc/simorgh/pulls?q=is%3Apr+author%3Arhenshaw56+is%3Aclosed)
+
+- 🛒 **Reaction Commerce** – Helped extend core e-commerce features for the open, real-time commerce platform
+  [View my PRs →](https://github.com/reactioncommerce/reaction/pulls?q=is%3Apr+author%3Arhenshaw56+is%3Aclosed)
+
+- 🧪 **OpenMRS Lab Workflow** – Led work on OpenMRS’ progressive web app for lab order workflows
+  [View my PRs →](https://github.com/openmrs/openmrs-owa-labworkflow/pulls?q=is%3Apr+is%3Aclosed+author%3Arhenshaw56)
+
+- 💊 **OpenMRS Order Entry** – Improved user experience and flow for medical order entry in OpenMRS
+  [View my PRs →](https://github.com/openmrs/openmrs-owa-orderentry/pulls?q=is%3Apr+author%3Arhenshaw56+is%3Aclosed)
+
 
 
 ## 📜 Certifications
