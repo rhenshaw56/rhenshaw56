@@ -16,23 +16,6 @@ Currently based in **Kitchener, Ontario**. I love football (the global kind), tr
 
 ---
 
-## 🛠️ Favorite Technologies & Tools
-
-### **Languages**
-`TypeScript` · `JavaScript` · `Python` · `Golang` · `C#`· `Ruby`
-
-### **Frontend**
-`React` · `Redux` · `HTML/CSS` · `Figma` · `Next.js`· `Vue` ·`Angular`
-
-### **Backend**
-`NestJS` · `Node.js` · `GraphQL` · `Hasura` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Rails` · `ASP.NET (core, MVC)`· `Entity Framework`
-
-### **Cloud & DevOps**
-`GCP` (Cloud Run, GKE, Pub/Sub, Document AI, etc.)
-`AWS` (Lambda, EC2, Step Functions, Cognito, DynamoDB etc.)
-`Terraform` · `Pulumi` · `Docker` · `CI/CD` (GitHub Actions, GitLab, CircleCI) · `Ansible` · `Puppet`
-
-
 ## 🌍 Open Source Contributions
 
 I'm proud to have contributed to a number of high-impact open-source projects across media, e-commerce, and healthcare:
@@ -49,6 +32,23 @@ I'm proud to have contributed to a number of high-impact open-source projects ac
 - 💊 **OpenMRS Order Entry** – Improved user experience and flow for medical order entry in OpenMRS
   [View my PRs →](https://github.com/openmrs/openmrs-owa-orderentry/pulls?q=is%3Apr+author%3Arhenshaw56+is%3Aclosed)
 
+
+
+## 🛠️ Favorite Technologies & Tools
+
+### **Languages**
+`TypeScript` · `JavaScript` · `Python` · `Golang` · `C#`· `Ruby`
+
+### **Frontend**
+`React` · `Redux` · `HTML/CSS` · `Figma` · `Next.js`· `Vue` ·`Angular`
+
+### **Backend**
+`NestJS` · `Node.js` · `GraphQL` · `Hasura` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Rails` · `ASP.NET (core, MVC)`· `Entity Framework`
+
+### **Cloud & DevOps**
+`GCP` (Cloud Run, GKE, Pub/Sub, Document AI, etc.)
+`AWS` (Lambda, EC2, Step Functions, Cognito, DynamoDB etc.)
+`Terraform` · `Pulumi` · `Docker` · `CI/CD` (GitHub Actions, GitLab, CircleCI) · `Ansible` · `Puppet`
 
 
 ## 📜 Certifications
